@@ -9,4 +9,4 @@ The package reads data from the [UK Government and Parliament Petitions](https:/
 
 The [ukpop.csv](https://github.com/matsavage/PetitionMap/blob/master/ukpop.csv) file is sourced from the UK government [statistics](https://public.tableau.com/profile/house.of.commons.library.statistics#!/vizhome/Populationbyage_0/Dataconstituencyincontext).
 
-The [uk.json](https://github.com/matsavage/PetitionMap/blob/master/uk.json) shapefile of the UK is sourced and merged from [martinjc's UK-GeoJSON](https://github.com/martinjc/UK-GeoJSON) package, and simplified using the [mapshaper](https://github.com/mbloch/mapshaper) package.
+The [uk.json](https://github.com/matsavage/PetitionMap/blob/master/uk.json) shapefile of the UK is sourced and merged from [@martinjc](https://github.com/martinjc)'s [UK-GeoJSON](https://github.com/martinjc/UK-GeoJSON) package, and simplified using the [mapshaper](https://github.com/mbloch/mapshaper) package.
