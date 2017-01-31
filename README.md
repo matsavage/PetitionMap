@@ -5,7 +5,7 @@ This is a simple iPython notebook to determine the proportion of each constituen
 
 The package reads data from the [UK Government and Parliament Petitions](https://petition.parliament.uk/) website and makes use of other public domain data to create a visualisation.
 
-![PetitionMap example](https://github.com/matsavage/PetitionMap/map.png "PetitionMap")
+![](https://github.com/matsavage/PetitionMap/blob/master/map.png?raw=true "PetitionMap")
 
 The [ukpop.csv](https://github.com/matsavage/PetitionMap/blob/master/ukpop.csv) file is sourced from the UK government [statistics][https://public.tableau.com/profile/house.of.commons.library.statistics#!/vizhome/Populationbyage_0/Dataconstituencyincontext].
 
